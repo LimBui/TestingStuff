@@ -10,9 +10,6 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    int x, y;
-    x = 2;
-    y = 2*x++;
-    cout << x++ << y;
+    cout << "I have changed the testing file";
 
 }
